@@ -1,0 +1,22 @@
+# Thaw's public pages (privacy, terms, support), built by GitHub Pages with Jekyll.
+# If the repository isn't named "thaw-site", change baseurl to "/<its name>" (PUBLISH.md, step 4).
+title: Thaw
+description: A breath before the apps you open without thinking. For iPhone, by AppHazard Studios.
+url: https://apphazard-studios.github.io
+baseurl: /thaw-site
+lang: en
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - README.md
+  - PUBLISH.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
