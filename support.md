@@ -13,7 +13,7 @@ shortcut covers all your apps. It needs iOS 27.2 or later.
 
 1. In Thaw, tap **Add to Shortcuts** (or **Set Up** later). Shortcuts opens Thaw's ready-made shortcut and asks which
    apps Thaw should pause before. Choose them.
-2. Tap **Add Shortcut**.
+2. Turn on **Automation**, then tap **Add Shortcut**.
 3. Open one of your apps. Thaw comes first.
 
 To **add or remove apps** later, tap **Add or Remove Apps** in Thaw, then **Open Shortcut**. At the top of the Thaw
@@ -40,7 +40,7 @@ turn on **Allow Running When Locked**, in the shortcut's ⓘ → **Privacy**, so
 
 ## It isn't working
 
-- **Nothing happens when I open the app.** In Shortcuts, check the Thaw shortcut is on and the app is in its trigger
+- **Nothing happens when I open the app.** In Shortcuts, check the Thaw shortcut's **Automation** is on and the app is in its trigger
   (**Add or Remove Apps** in Thaw opens it).
 - **Thaw breathes but never asks about the app, and shows no app name.** The shortcut isn't handing Thaw the app. In
   the Thaw shortcut, set Thaw's action to **Take a breath before [App]** with the trigger's **App**.
