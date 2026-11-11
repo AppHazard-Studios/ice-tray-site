@@ -23,7 +23,7 @@ Thaw keeps these things on your iPhone, in storage only Thaw and its Shortcuts a
 - whether you've seen the first breath, and whether you've added Thaw's shortcut from its link,
 - the names of the apps you pause: each app your shortcut hands Thaw, in the order Thaw first saw it, so it can
   list them under Your apps and count your 3 free apps,
-- for each of those apps, the time you last chose Continue, so it can let you straight back in within two minutes,
+- for each of those apps, the time you last chose Continue, so it can let you straight back in within 2 minutes,
 - the icons of those apps, from Apple's App Store (below),
 - whether you have Thaw Pro, and whether it's a subscription you bought yourself (a yes or no each).
 
@@ -38,8 +38,7 @@ it doesn't tell us who you are.
 
 When the shortcut runs, it tells Thaw the name of the app being opened. That name stays on your iPhone as above, apart
 from the icon request below. Thaw hands your choice (Continue or not) back to the shortcut, which opens the app with
-Apple's Open App action or goes to the Home Screen; Thaw opens some apps itself too. All of that happens on your
-iPhone.
+Apple's Open App action; Thaw opens some apps itself too. All of that happens on your iPhone.
 
 If you ask Siri to take a breath with Thaw, Siri handles what you say, under Apple's privacy policy. Thaw only learns
 that its Take a Breath action ran.
@@ -54,7 +53,7 @@ Each request sends only the app's ID (or its name) and your iPhone's region. No 
 about you. It goes to Apple, not to us. As with any request, Apple can see the internet address it came from; Apple's
 privacy policy covers that.
 
-Thaw keeps the icons in its caches on your iPhone. Removing an app from Your apps deletes its icon. With no
+Thaw keeps the icons in its caches on your iPhone. Hiding an app from Your apps deletes its icon. With no
 connection, or for an app the App Store doesn't have, Thaw shows the app without its icon.
 
 ## Thaw Pro

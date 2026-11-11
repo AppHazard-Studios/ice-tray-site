@@ -6,7 +6,7 @@ permalink: /terms/
 
 # Thaw terms of use
 
-_Last updated 7 November 2026_
+_Last updated 11 November 2026_
 
 Thaw is an iPhone app made by AppHazard Studios ("we"). These terms are short. By using Thaw you agree to them.
 
@@ -58,7 +58,7 @@ uses, with Family Sharing.
 
 ### Family Sharing, restoring, refunds
 
-- All three can be shared with your Family Sharing group.
+- All 3 can be shared with your Family Sharing group.
 - **Restore** (Thaw → Settings → Thaw Pro → Restore) brings Pro back on a new iPhone or after reinstalling.
 - Purchases are handled by Apple, so refunds are too: [reportaproblem.apple.com](https://reportaproblem.apple.com).
 

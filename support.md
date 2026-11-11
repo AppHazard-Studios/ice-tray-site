@@ -13,7 +13,7 @@ shortcut covers all your apps. It needs iOS 27.2 or later.
 
 1. In Thaw, tap **Add to Shortcuts** (or **Set Up** later). Shortcuts opens Thaw's ready-made shortcut and asks which
    apps Thaw should pause before. Choose them.
-2. Turn on **Automation**, then tap **Add Shortcut**.
+2. Tap **Add Shortcut**.
 3. Open one of your apps. Thaw comes first.
 
 To **add or remove apps** later, tap **Add or Remove Apps** in Thaw, then **Open Shortcut**. At the top of the Thaw
@@ -22,14 +22,14 @@ name **Thaw**: Thaw uses it to find the shortcut.
 
 To make the shortcut yourself instead, tap **Set It Up Yourself** in Thaw. It shows the finished shortcut, action by
 action: the trigger "When [apps] is Opened", then Thaw's action "Take a breath before [App]" with its App set to the
-trigger's **App**, then **If** Thaw's answer is **Open** → **Open [App]**, **Otherwise** → **Go to Home Screen**. Also
+trigger's **App**, then **If** Thaw's answer is **Open** → **Open [App]**. Also
 turn on **Allow Running When Locked**, in the shortcut's ⓘ → **Privacy**, so it runs without asking.
 
 ## How the pause works
 
 - Two slow breaths, about 21 seconds. There's no button to skip it: that's the point. Swiping home leaves, and
   counts as not opening the app.
-- Then you choose. **I don't want to open** _the app_ leaves it closed, and Thaw settles back to its home.
+- Then you choose. **I don't want to open** _the app_ leaves it closed.
   **Continue to** _the app_ opens it. The first time, iOS may ask whether Thaw may open the app: tap **Open**.
 - **Choose within a few seconds of the ice melting.** Shortcuts stops an action after 30 seconds. If you wait longer,
   the shortcut ends quietly, but Thaw keeps both buttons on screen: **Continue** still opens the app (or tells you
@@ -40,7 +40,7 @@ turn on **Allow Running When Locked**, in the shortcut's ⓘ → **Privacy**, so
 
 ## It isn't working
 
-- **Nothing happens when I open the app.** In Shortcuts, check the Thaw shortcut's **Automation** is on and the app is in its trigger
+- **Nothing happens when I open the app.** In Shortcuts, check the Thaw shortcut is added and the app is in its trigger
   (**Add or Remove Apps** in Thaw opens it).
 - **Thaw breathes but never asks about the app, and shows no app name.** The shortcut isn't handing Thaw the app. In
   the Thaw shortcut, set Thaw's action to **Take a breath before [App]** with the trigger's **App**.
@@ -65,7 +65,7 @@ turn on **Allow Running When Locked**, in the shortcut's ⓘ → **Privacy**, so
 - **Cancel:** Thaw's Settings → **Manage Subscription**, or your iPhone's Settings → your name → **Subscriptions** →
   Thaw Pro. Cancel at least 24 hours before the trial or the current period ends to avoid the next charge; Pro lasts
   until then. Lifetime is a single purchase with nothing to cancel.
-- **Family Sharing:** all three plans can be shared with your Family Sharing group. Family members get Pro on their
+- **Family Sharing:** all 3 plans can be shared with your Family Sharing group. Family members get Pro on their
   own iPhones (if sharing is turned on for it in your Apple Account's Family Sharing or Subscriptions settings) and
   can use Restore if it doesn't show up straight away.
 - **Refunds** are handled by Apple: [reportaproblem.apple.com](https://reportaproblem.apple.com).
