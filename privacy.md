@@ -6,7 +6,7 @@ permalink: /privacy/
 
 # Thaw privacy policy
 
-_Last updated 7 November 2026_
+_Last updated 11 November 2026_
 
 Thaw is an iPhone app made by AppHazard Studios ("we"). **Thaw doesn't collect any data about you.**
 
@@ -21,7 +21,7 @@ Thaw keeps these things on your iPhone, in storage only Thaw and its Shortcuts a
 
 - your Haptics and Appearance settings,
 - whether you've seen the first breath, and whether you've added Thaw's shortcut from its link,
-- the names of the apps you pause: each app your automation hands Thaw, in the order Thaw first saw it, so it can
+- the names of the apps you pause: each app your shortcut hands Thaw, in the order Thaw first saw it, so it can
   list them under Your apps and count your 3 free apps,
 - for each of those apps, the time you last chose Continue, so it can let you straight back in within two minutes,
 - the icons of those apps, from Apple's App Store (below),
@@ -32,13 +32,14 @@ They never reach us, and deleting Thaw deletes them. The only thing that leaves 
 
 ## Shortcuts and Siri
 
-You choose which apps get a pause in Apple's Shortcuts app, by turning on Thaw's automation and picking apps from
-Apple's list. The automation belongs to you and lives in Shortcuts. Adding it from Thaw's iCloud link is between you
-and Apple; it doesn't tell us who you are.
+You choose which apps get a pause in Apple's Shortcuts app, by adding Thaw's shortcut and picking apps from Apple's
+list. The shortcut belongs to you and lives in Shortcuts. Adding it from Thaw's iCloud link is between you and Apple;
+it doesn't tell us who you are.
 
-When the automation runs, it tells Thaw the name of the app being opened. That name stays on your iPhone as above,
-apart from the icon request below. When you choose Continue, Thaw opens the app itself, sometimes by running your Thaw
-shortcut with the app's name; that happens on your iPhone too.
+When the shortcut runs, it tells Thaw the name of the app being opened. That name stays on your iPhone as above, apart
+from the icon request below. Thaw hands your choice (Continue or not) back to the shortcut, which opens the app with
+Apple's Open App action or goes to the Home Screen; Thaw opens some apps itself too. All of that happens on your
+iPhone.
 
 If you ask Siri to take a breath with Thaw, Siri handles what you say, under Apple's privacy policy. Thaw only learns
 that its Take a Breath action ran.

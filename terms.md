@@ -30,9 +30,9 @@ made by others and can change; we'll do our best to keep Thaw working with them,
 
 ## Free and Thaw Pro
 
-- **Free:** the pause before 3 apps (the first three different apps your automation hands Thaw), and the breath on its
+- **Free:** the pause before 3 apps (the first 3 different apps your shortcut hands Thaw), and the breath on its
   own, any time.
-- **Thaw Pro** pauses unlimited apps. It's sold in Thaw through Apple's App Store as:
+- **Thaw Pro** pauses more than 3 apps. It's sold in Thaw through Apple's App Store as:
   - **Thaw Pro Monthly:** an auto-renewing subscription, 1 month, US$2.99 a month.
   - **Thaw Pro Yearly:** an auto-renewing subscription, 1 year, US$14.99 a year. New subscribers may get the first
     week free (Apple decides who's eligible; Thaw shows it only when you are).

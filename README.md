@@ -2,8 +2,8 @@
 
 The public website for **Thaw**, an iPhone app by AppHazard Studios: a breath before the apps you open without
 thinking. Open an app you've chosen and a block of ice holding its icon melts over two slow breaths; then you choose
-to open the app or leave it closed. No account, no tracking, no data collected. Free for three apps; Thaw Pro pauses
-unlimited apps.
+to open the app or leave it closed. No account, no tracking, no data collected. Free for 3 apps; Thaw Pro pauses
+more than 3. The App Store listing is "Thaw: Screen Time & App Pause" ("Breathe before you scroll").
 
 This repository holds only the pages the App Store and the app link to. The app's code lives elsewhere.
 
