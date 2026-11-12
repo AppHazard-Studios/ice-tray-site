@@ -6,7 +6,7 @@ permalink: /terms/
 
 # Ice Tray terms of use
 
-_Last updated 12 November 2026_
+_Last updated 13 November 2026_
 
 Ice Tray is an iPhone app made by AppHazard Studios ("we"). These terms are short. By using Ice Tray you agree to them.
 
@@ -31,8 +31,8 @@ made by others and can change; we'll do our best to keep Ice Tray working with t
 ## Free and Ice Tray Pro
 
 - **Free:** the freeze for 1 app (the first app your shortcut hands Ice Tray, or the one you choose on home).
-- **Ice Tray Pro** unlocks the full tray, so every app you choose is frozen. It's sold in Ice Tray through Apple's App
-  Store as:
+- **Ice Tray Pro** freezes every app you choose, with a switch for each on Ice Tray's home to let it open normally.
+  It's sold in Ice Tray through Apple's App Store as:
   - **Ice Tray Pro Monthly:** an auto-renewing subscription, 1 month, US$0.99 a month.
   - **Ice Tray Pro Lifetime:** a single purchase, US$9.99, with nothing to renew.
 

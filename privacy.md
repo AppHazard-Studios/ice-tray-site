@@ -6,14 +6,14 @@ permalink: /privacy/
 
 # Ice Tray privacy policy
 
-_Last updated 12 November 2026_
+_Last updated 13 November 2026_
 
 Ice Tray is an iPhone app made by AppHazard Studios ("we"). **Ice Tray doesn't collect any data about you.**
 
 - **No account and no sign-in.**
 - **No analytics, advertising or tracking.** Ice Tray contains no third-party code that does any of this.
-- **Nothing reaches us.** Ice Tray has no server. It asks Apple's App Store for the icons of the apps you freeze, and
-  buying Ice Tray Pro goes through Apple too (both below).
+- **Nothing reaches us.** Ice Tray has no server. It asks Apple's App Store for the icons of the apps you freeze,
+  and buying Ice Tray Pro goes through Apple too (both below).
 
 ## What stays on your iPhone
 
@@ -21,16 +21,18 @@ Ice Tray keeps these things on your iPhone, in storage only Ice Tray and its Sho
 
 - your Haptics and Appearance settings,
 - whether you've seen the first breath, and whether you've added Ice Tray's shortcut from its link,
-- the names of the apps you freeze: each app your shortcut hands Ice Tray, in the order it first met it, so it can
-  list them under In the tray, and which 1 is your free app,
+- the apps you freeze: for each app your shortcut hands Ice Tray, its name and its bundle ID (the ID every app has,
+  like `com.apple.podcasts` for Podcasts), in the order Ice Tray first met it, so it can list them on home and tell
+  one app from another,
+- which 1 is your free app, and with Ice Tray Pro which apps you've switched off,
 - for each of those apps, the time you last chose Open, so it stays unfrozen for 2 minutes,
 - how many times each day you reached for a frozen app and put it back, for the last 8 weeks, so home can tell you your
   week,
 - the icons of those apps, from Apple's App Store (below),
 - whether you have Ice Tray Pro, and whether it's a subscription you bought yourself (a yes or no each).
 
-They never reach us, and deleting Ice Tray deletes them. The only thing that leaves your iPhone is each app's ID or name
-(with your region), sent to Apple for its icon.
+They never reach us, and deleting Ice Tray deletes them. The only thing that leaves your iPhone is each app's bundle ID
+(or, for an app Ice Tray only knows by name, its name) with your region, sent to Apple for its icon.
 
 ## Shortcuts
 
@@ -38,9 +40,9 @@ You choose which apps to freeze in Apple's Shortcuts app, by adding Ice Tray's s
 list. The shortcut belongs to you and lives in Shortcuts. Adding it from Ice Tray's iCloud link is between you and
 Apple; it doesn't tell us who you are.
 
-When the shortcut runs, it tells Ice Tray the name of the app being opened. That name stays on your iPhone as above,
-apart from the icon request below. Ice Tray hands your choice (Open or Put Back) back to the shortcut, which opens the
-app with Apple's Open App action; Ice Tray opens some apps itself too. All of that happens on your iPhone.
+When the shortcut runs, its Text step tells Ice Tray the name and bundle ID of the app being opened. Those stay on your
+iPhone as above, apart from the icon request below. Ice Tray hands your choice (Open or Put Back) back to the shortcut,
+which opens the app with Apple's Open App action or goes to the Home Screen. All of that happens on your iPhone.
 
 ## App icons
 
@@ -48,12 +50,14 @@ To show the real icons of the apps you freeze, Ice Tray asks Apple's App Store f
 an app is frozen on screen, and each time you come back to Ice Tray's home, for any app whose icon is missing or more
 than 30 days old.
 
-Each request sends only the app's ID (or its name) and your iPhone's region. No cookies, no account, nothing else
-about you. It goes to Apple, not to us. As with any request, Apple can see the internet address it came from; Apple's
+Each request is Apple's App Store lookup for one app's bundle ID: it sends only that bundle ID and your iPhone's
+region. (For an app Ice Tray only knows by name, from an older or hand-made shortcut, it sends the name instead.) No
+cookies, no account, nothing else about you. It goes to Apple, not to us. As with any request, Apple can see the internet address it came from; Apple's
 privacy policy covers that.
 
-Ice Tray keeps the icons in its caches on your iPhone. Hiding an app from In the tray deletes its icon. With no
-connection, or for an app the App Store doesn't have, Ice Tray shows the app without its icon.
+Ice Tray keeps the icons in its caches on your iPhone. Hiding an app on home deletes its icon. With no
+connection, or for an app the App Store doesn't have (some of Apple's own), Ice Tray shows a frosted tile with the
+app's first letter instead.
 
 ## Ice Tray Pro
 
