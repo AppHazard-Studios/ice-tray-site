@@ -52,8 +52,8 @@ than 30 days old.
 
 Each request is Apple's App Store lookup for one app's bundle ID: it sends only that bundle ID and your iPhone's
 region. (For an app Ice Tray only knows by name, from an older or hand-made shortcut, it sends the name instead.) No
-cookies, no account, nothing else about you. It goes to Apple, not to us. As with any request, Apple can see the internet address it came from; Apple's
-privacy policy covers that.
+cookies, no account, nothing else about you. It goes to Apple, not to us. As with any request, Apple can see the
+internet address it came from; Apple's privacy policy covers that.
 
 Ice Tray keeps the icons in its caches on your iPhone. Hiding an app on home deletes its icon. With no
 connection, or for an app the App Store doesn't have (some of Apple's own), Ice Tray shows a frosted tile with the
