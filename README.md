@@ -1,9 +1,11 @@
-# Thaw: public pages
+# Ice Tray: public pages
 
-The public website for **Thaw**, an iPhone app by AppHazard Studios: a breath before the apps you open without
-thinking. Open an app you've chosen and ice holding its icon melts over two slow breaths; then you choose
-to open the app or leave it closed. No account, no tracking, no data collected. Free for 3 apps; Thaw Pro pauses
-more than 3. The App Store listing will be "Thaw: Screen Time & App Pause" ("Breathe before you scroll").
+The public website for **Ice Tray**, an iPhone app by AppHazard Studios: it freezes the apps you open without thinking.
+Open an app you've chosen and ice holding its icon melts over 2 slow breaths; then it's your call: open the app, or put
+it back. No account, no tracking, no data collected. Free for 1 app; Ice Tray Pro unlocks the full tray. The App Store
+listing will be "Ice Tray: Stop Doomscrolling" ("The screen time app freezer"). The app was called Thaw until 12
+November 2026; the repository, its URLs and the icon file keep the `thaw` spelling until the owner decides otherwise
+(see `PUBLISH.md`).
 
 This repository holds only the pages the App Store and the app link to. The app's code lives elsewhere.
 

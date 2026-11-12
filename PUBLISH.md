@@ -1,4 +1,4 @@
-# Publishing Thaw's pages (owner)
+# Publishing Ice Tray's pages (owner)
 
 About 15 minutes. Everything here is done by you, signed in to GitHub and App Store Connect. Nothing has been pushed
 or created for you.
@@ -7,7 +7,7 @@ or created for you.
 
 On github.com, under **AppHazard-Studios**: **New repository**.
 
-- Name: **`thaw-site`** (the URLs below assume this name; another name means changing `baseurl`, step 4)
+- Name: **`thaw-site`** (the URLs below assume this name; another name means changing `baseurl`, step 4). **The app is Ice Tray now** (12 November 2026), and the repository name appears in every public URL, so decide before creating it: `icetray-site` reads better. If you rename, change `baseurl` in `_config.yml`, the URLs below, and the Privacy and Support URLs in `docs/appstore/listing.md`.
 - Visibility: **Public** (GitHub Pages on a free plan needs a public repository)
 - Leave "Add a README", ".gitignore" and "license" **unticked** (this repository already has its files)
 - **Create repository**

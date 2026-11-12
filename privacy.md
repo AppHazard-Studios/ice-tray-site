@@ -1,66 +1,65 @@
 ---
 title: Privacy policy
-description: Thaw doesn't collect any data about you.
+description: Ice Tray doesn't collect any data about you.
 permalink: /privacy/
 ---
 
-# Thaw privacy policy
+# Ice Tray privacy policy
 
-_Last updated 11 November 2026_
+_Last updated 12 November 2026_
 
-Thaw is an iPhone app made by AppHazard Studios ("we"). **Thaw doesn't collect any data about you.**
+Ice Tray is an iPhone app made by AppHazard Studios ("we"). **Ice Tray doesn't collect any data about you.**
 
 - **No account and no sign-in.**
-- **No analytics, advertising or tracking.** Thaw contains no third-party code that does any of this.
-- **Nothing reaches us.** Thaw has no server. It asks Apple's App Store for the icons of the apps you pause, and
-  buying Thaw Pro goes through Apple too (both below).
+- **No analytics, advertising or tracking.** Ice Tray contains no third-party code that does any of this.
+- **Nothing reaches us.** Ice Tray has no server. It asks Apple's App Store for the icons of the apps you freeze, and
+  buying Ice Tray Pro goes through Apple too (both below).
 
 ## What stays on your iPhone
 
-Thaw keeps these things on your iPhone, in storage only Thaw and its Shortcuts action can read:
+Ice Tray keeps these things on your iPhone, in storage only Ice Tray and its Shortcuts action can read:
 
 - your Haptics and Appearance settings,
-- whether you've seen the first breath, and whether you've added Thaw's shortcut from its link,
-- the names of the apps you pause: each app your shortcut hands Thaw, in the order Thaw first saw it, so it can
-  list them under Your apps and count your 3 free apps,
-- for each of those apps, the time you last chose Continue, so it can let you straight back in within 2 minutes,
+- whether you've seen the first breath, and whether you've added Ice Tray's shortcut from its link,
+- the names of the apps you freeze: each app your shortcut hands Ice Tray, in the order it first met it, so it can
+  list them under In the tray, and which 1 is your free app,
+- for each of those apps, the time you last chose Open, so it stays unfrozen for 2 minutes,
+- how many times each day you reached for a frozen app and put it back, for the last 8 weeks, so home can tell you your
+  week,
 - the icons of those apps, from Apple's App Store (below),
-- whether you have Thaw Pro, and whether it's a subscription you bought yourself (a yes or no each).
+- whether you have Ice Tray Pro, and whether it's a subscription you bought yourself (a yes or no each).
 
-They never reach us, and deleting Thaw deletes them. The only thing that leaves your iPhone is each app's ID or name
+They never reach us, and deleting Ice Tray deletes them. The only thing that leaves your iPhone is each app's ID or name
 (with your region), sent to Apple for its icon.
 
-## Shortcuts and Siri
+## Shortcuts
 
-You choose which apps get a pause in Apple's Shortcuts app, by adding Thaw's shortcut and picking apps from Apple's
-list. The shortcut belongs to you and lives in Shortcuts. Adding it from Thaw's iCloud link is between you and Apple;
-it doesn't tell us who you are.
+You choose which apps to freeze in Apple's Shortcuts app, by adding Ice Tray's shortcut and picking apps from Apple's
+list. The shortcut belongs to you and lives in Shortcuts. Adding it from Ice Tray's iCloud link is between you and
+Apple; it doesn't tell us who you are.
 
-When the shortcut runs, it tells Thaw the name of the app being opened. That name stays on your iPhone as above, apart
-from the icon request below. Thaw hands your choice (Continue or not) back to the shortcut, which opens the app with
-Apple's Open App action; Thaw opens some apps itself too. All of that happens on your iPhone.
-
-If you ask Siri to take a breath with Thaw, Siri handles what you say, under Apple's privacy policy. Thaw only learns
-that its Take a Breath action ran.
+When the shortcut runs, it tells Ice Tray the name of the app being opened. That name stays on your iPhone as above,
+apart from the icon request below. Ice Tray hands your choice (Open or Put Back) back to the shortcut, which opens the
+app with Apple's Open App action; Ice Tray opens some apps itself too. All of that happens on your iPhone.
 
 ## App icons
 
-To show the real icons of the apps you pause, Thaw asks Apple's App Store for them. It asks in the background after a
-pause starts for an app, and each time you come back to Thaw's home, for any app whose icon is missing or more than
-30 days old.
+To show the real icons of the apps you freeze, Ice Tray asks Apple's App Store for them. It asks in the background after
+an app is frozen on screen, and each time you come back to Ice Tray's home, for any app whose icon is missing or more
+than 30 days old.
 
 Each request sends only the app's ID (or its name) and your iPhone's region. No cookies, no account, nothing else
 about you. It goes to Apple, not to us. As with any request, Apple can see the internet address it came from; Apple's
 privacy policy covers that.
 
-Thaw keeps the icons in its caches on your iPhone. Hiding an app from Your apps deletes its icon. With no
-connection, or for an app the App Store doesn't have, Thaw shows the app without its icon.
+Ice Tray keeps the icons in its caches on your iPhone. Hiding an app from In the tray deletes its icon. With no
+connection, or for an app the App Store doesn't have, Ice Tray shows the app without its icon.
 
-## Thaw Pro
+## Ice Tray Pro
 
-Thaw Pro is bought, restored and managed through Apple's App Store with your Apple Account. Apple handles the
-payment: Thaw never sees your payment details, your Apple Account or who you are. Thaw only keeps whether you have
-Pro. Apple's privacy policy covers the purchase itself.
+Ice Tray Pro is bought, restored and managed through Apple's App Store with your Apple Account. Apple handles the
+payment: Ice Tray never sees your payment details, your Apple Account or who you are. Ice Tray only keeps whether you
+have Ice Tray Pro. Apple's privacy policy covers the purchase itself.
 
 ## If you email us
 
@@ -75,11 +74,11 @@ covers that.
 
 ## Children
 
-Thaw collects nothing from anyone, children included.
+Ice Tray collects nothing from anyone, children included.
 
 ## Changes
 
-If this policy changes, the new version will be here with a new date. If Thaw ever needed to collect anything, the
+If this policy changes, the new version will be here with a new date. If Ice Tray ever needed to collect anything, the
 policy, the App Store's privacy label and the app would say so first.
 
 ## Contact
