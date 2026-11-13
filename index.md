@@ -13,7 +13,7 @@ Breathe in as it rises; breathe out, slowly, to melt the ice. 2 slow breaths, ab
 the app, or freeze it.
 
 - One shortcut in Apple's Shortcuts app freezes all your apps. You choose them from Apple's own list, and add or remove one any time.
-- No skipping the breath, no blocking, no stats: Ice Tray doesn't count your minutes or score you.
+- No skipping the breath, no blocking, no scores: Ice Tray doesn't count your minutes or grade you.
 - No account, no tracking, no data collected.
 - Free for 1 app. Ice Tray Pro freezes every app, with a switch for each.
 

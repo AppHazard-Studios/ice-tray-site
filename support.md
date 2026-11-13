@@ -28,7 +28,7 @@ first time you open it. Keep the shortcut's name **Ice Tray**: Ice Tray uses it 
 ### Starting the shortcut again
 
 If the shortcut is missing a step or has gone wrong, don't add a second one: two shortcuts called Ice Tray run every app
-twice, and Ice Tray can't tell which to open. In Shortcuts, delete your Ice Tray shortcut (touch and hold it, then
+twice, and Ice Tray's **Open Shortcut** can't tell them apart. In Shortcuts, delete your Ice Tray shortcut (touch and hold it, then
 **Delete**), then add it again from this link: <https://www.icloud.com/shortcuts/c40f13d74fa142e89cc357f1edcae60f>, and pick your apps again.
 
 ### Taking an app out
@@ -96,7 +96,7 @@ tile with the app's first letter until it has fetched an icon from the App Store
   Tray is Open → Open App**, or you waited too long to choose (above). Open the app yourself: for 2 minutes after you
   chose Open it opens without a breath. To fix it, start the shortcut again (see Starting the shortcut again), or
   follow **Set It Up Yourself**.
-- **I chose Freeze It and stayed in Ice Tray.** One of three things. It was your first freeze ever (that one shows your
+- **I chose Freeze It and stayed in Ice Tray.** One of 3 things. It was your first freeze ever (that one shows your
   list). Or you took more than a few seconds to choose (Shortcuts stops an action after 30 seconds). Or your shortcut
   has no **Otherwise → Go to Home Screen**: add it under **Otherwise**, or start the shortcut again (see Starting the
   shortcut again).

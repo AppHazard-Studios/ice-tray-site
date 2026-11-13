@@ -29,8 +29,7 @@ Ice Tray keeps these things on your iPhone, in storage only Ice Tray and its Sho
 - for each of those apps, the time you last chose Open, so it stays unfrozen for 2 minutes,
 - how many times today you reached for each frozen app, started again each day, so the end screen can say "Third time
   today.",
-- how many times each day you reached for a frozen app and kept it frozen, for the last 8 weeks, so home can tell you
-  your week,
+- when you reached for a frozen app and whether you opened it, for the last 8 weeks, so home can tell you your week,
 - the icons of those apps: the picture your shortcut hands over, and the sharper one from Apple's App Store (below),
 - whether you have Ice Tray Pro, and whether it's a subscription you bought yourself (a yes or no each).
 
