@@ -17,8 +17,9 @@ freezes all your apps. It needs iOS 27.2 or later.
    and Icon steps included.
 3. Open one of the apps you picked. Ice Tray freezes it: breathe out to melt the ice, then open it or put it back.
 
-Ice Tray teaches you this by doing it. The first time you open it, a few short pages let you try the freeze and then
-show you the steps above, and the last page is your first real freeze, which ends with "You're set up."
+Ice Tray teaches you this by doing it. The first time you open it, short pages let you breathe once, try the real
+choice (open it or put it back), pick your apps in Shortcuts, and open one. That first real freeze is the last step, and
+it ends with "You're set up."
 
 To **add apps** later, tap **Choose Apps** in Ice Tray, then **Open Shortcut**. In the shortcut, tap **+** in the "When
 [your apps] is Opened" line. A new app shows up in Ice Tray after you open it once. Keep the shortcut's name **Ice
@@ -35,17 +36,18 @@ line, then tap **Clear**. Tap **Open Shortcut** in Ice Tray to get there.
 To make the shortcut by hand instead, tap **Set It Up Yourself** in Ice Tray: it shows the finished shortcut, step by
 step. Here it is in full:
 
-1. **When** [your apps] **is Opened**: in Shortcuts, tap **Automation**, then **+** and **App**. Pick your apps, choose
-   **Is Opened** and **Run Immediately**, then start a new blank automation.
-2. **Text**: add a **Text** action. In it, put the trigger's **App**, type **|** (no spaces), then put the **App**
-   again. Tap the first **App** and choose **Name**; tap the second and choose **Bundle Identifier**. It reads
-   "App Name|App Bundle Identifier".
+1. **When** [your apps] **is Opened**: in Shortcuts, tap **+**, then **Edit**, **Automation** and **App**, and pick
+   your apps (**+** adds more).
+2. **Text**: add **Text**. In it, add the trigger's **App** from above the keyboard, tap it and choose **Name**. Type
+   **|** (no spaces), add **App** again and choose **Bundle Identifier**. It reads "App Name|App Bundle Identifier".
 3. **Ice Tray: Unfreeze [Text] with Icon [App's Icon]**: add Ice Tray's **Unfreeze**. Touch and hold **Which App**
    and choose **Text** (the one from step 2, not the trigger's App). Tap **›**, touch and hold **Icon**, choose
    **App**, then tap that **App** and choose **Icon**.
-4. **If** Ice Tray is **Open** → **Open App** (the trigger's **App**); **Otherwise** → **Go to Home Screen**.
-
-Last, name it **Ice Tray**, and in **ⓘ** → **Privacy** turn on **Allow Running When Locked**, so it runs without asking.
+4. **If** Ice Tray is **Open** → **Open App** (the trigger's **App**); **Otherwise** → **Go to Home Screen**. Add
+   **If**, **Open App** and **Go to Home Screen**, and drag them into place: **Open App** under **If**, **Go to Home
+   Screen** under **Otherwise**.
+5. Last, rename it **Ice Tray**. Then in **ⓘ**, **Privacy**, turn on **Allow Running When Locked**, so it runs without
+   asking.
 
 Why the Text step: Shortcuts doesn't hand the trigger's App straight to Ice Tray, but it does hand over text. The Text
 step tells Ice Tray the app's name (what it shows) and its bundle ID (how it knows the app).

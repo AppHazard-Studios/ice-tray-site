@@ -51,7 +51,8 @@ the Home Screen. All of that happens on your iPhone.
 
 Your shortcut hands Ice Tray each app's icon, so the ice holds the real icon from its first moment, for Apple's own
 apps too. For apps from the App Store, Ice Tray also asks Apple for a sharper one. It asks in the background, after the
-ice has landed, for any app whose sharper icon is missing or more than 30 days old.
+ice has landed (or at once, for an app that isn't frozen), for any app whose sharper icon is missing or more than 30
+days old.
 
 Each request is Apple's App Store lookup for one app's bundle ID: it sends only that bundle ID and your iPhone's
 region. (For an app Ice Tray only knows by name, from an older or hand-made shortcut, it sends the name instead.) No
