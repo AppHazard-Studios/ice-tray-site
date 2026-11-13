@@ -10,9 +10,9 @@ permalink: /
 
 Open an app you've chosen, like Instagram or TikTok, and Ice Tray comes first, with that app's icon frozen in ice.
 Breathe in as it rises; breathe out, slowly, to melt the ice. 2 slow breaths, about 21 seconds. Then it's your call: open
-the app, or put it back.
+the app, or freeze it.
 
-- One shortcut in Apple's Shortcuts app freezes all your apps. You choose them from Apple's own list, and take one out any time.
+- One shortcut in Apple's Shortcuts app freezes all your apps. You choose them from Apple's own list, and add or remove one any time.
 - No skipping the breath, no blocking, no stats: Ice Tray doesn't count your minutes or score you.
 - No account, no tracking, no data collected.
 - Free for 1 app. Ice Tray Pro freezes every app, with a switch for each.

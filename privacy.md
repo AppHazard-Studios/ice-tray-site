@@ -20,15 +20,17 @@ Ice Tray is an iPhone app made by AppHazard Studios ("we"). **Ice Tray doesn't c
 Ice Tray keeps these things on your iPhone, in storage only Ice Tray and its Shortcuts action can read:
 
 - your Haptics and Appearance settings,
-- whether you've seen the first breath, and whether you've opened the link to add Ice Tray's shortcut,
+- whether you've finished onboarding, opened the link to add Ice Tray's shortcut, had your first freeze and seen how
+  to add apps,
 - the apps you freeze: for each app your shortcut hands Ice Tray, its name and its bundle ID (the ID every app has,
   like `com.apple.podcasts` for Podcasts), in the order Ice Tray first met it, so it can list them on home and tell
   one app from another,
 - which 1 is your free app, and with Ice Tray Pro which apps you've switched off,
-- the apps you've removed from home, so Ice Tray doesn't freeze them or list them again by itself,
 - for each of those apps, the time you last chose Open, so it stays unfrozen for 2 minutes,
-- how many times each day you reached for a frozen app and put it back, for the last 8 weeks, so home can tell you your
-  week,
+- how many times today you reached for each frozen app, started again each day, so the end screen can say "Third time
+  today.",
+- how many times each day you reached for a frozen app and kept it frozen, for the last 8 weeks, so home can tell you
+  your week,
 - the icons of those apps: the picture your shortcut hands over, and the sharper one from Apple's App Store (below),
 - whether you have Ice Tray Pro, and whether it's a subscription you bought yourself (a yes or no each).
 
@@ -44,7 +46,7 @@ Apple; it doesn't tell us who you are.
 
 When the shortcut runs, its Text step tells Ice Tray the name and bundle ID of the app being opened, and its Icon step
 hands over the app's icon. Those stay on your iPhone as above, apart from the sharper-icon request below. Ice Tray
-hands your choice (Open or Put Back) back to the shortcut, which opens the app with Apple's Open App action or goes to
+hands your choice (Open or Freeze) back to the shortcut, which opens the app with Apple's Open App action or goes to
 the Home Screen. All of that happens on your iPhone.
 
 ## App icons
@@ -61,7 +63,7 @@ internet address it came from; Apple's privacy policy covers that. Where the App
 own apps), the app keeps the icon your shortcut handed over.
 
 The icon pictures your shortcut hands over, and the ones from the App Store, stay on your iPhone, in Ice Tray's caches.
-They are shown only inside Ice Tray. Removing an app on home deletes its icon. If an app has no icon (an older or
+They are shown only inside Ice Tray. Removing an app on home deletes its icon, and Ice Tray forgets the app. If an app has no icon (an older or
 hand-made shortcut, no connection and no icon yet), Ice Tray shows a frosted tile with the app's first letter instead.
 
 ## Ice Tray Pro

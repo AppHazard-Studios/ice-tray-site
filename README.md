@@ -2,7 +2,7 @@
 
 The public website for **Ice Tray**, an iPhone app by AppHazard Studios: it freezes the apps you open without thinking.
 Open an app you've chosen and ice holding its icon melts as you breathe out, over 2 slow breaths; then it's your call:
-open the app, or put it back. No account, no tracking, no data collected. Free for 1 app; Ice Tray Pro freezes every
+open the app, or freeze it. No account, no tracking, no data collected. Free for 1 app; Ice Tray Pro freezes every
 app, with a switch for each. The App Store
 listing will be "Ice Tray: Stop Doomscrolling" ("The screen time app freezer"). The app was called Thaw until 12
 November 2026; the repository, its URLs and the icon file keep the `thaw` spelling until the owner decides otherwise
