@@ -11,14 +11,24 @@ permalink: /support/
 Ice Tray freezes the apps you choose through one shortcut in Apple's Shortcuts app, called **Ice Tray**. One shortcut
 freezes all your apps. It needs iOS 27.2 or later.
 
-1. In Ice Tray, tap **Choose Apps** (or **Choose Your Apps** when you first open it). Shortcuts opens Ice Tray's
-   ready-made shortcut and asks "Which apps do you want to freeze?". Choose them, and turn on **Automation**.
-2. Tap **Add Shortcut**. That's all: the rest of the shortcut is already in place.
-3. Open one of the apps you chose. It'll be frozen.
+1. In Ice Tray, tap **Choose Your Apps** (it's **Choose Apps** on Ice Tray's home). Shortcuts opens Ice Tray's
+   ready-made shortcut and asks "Which apps do you want to freeze?". Pick them.
+2. Tap **Add Shortcut**, then come back to Ice Tray. That's all: the rest of the shortcut is already in place, its Text
+   and Icon steps included.
+3. Open one of the apps you picked. Ice Tray freezes it: breathe out to melt the ice, then open it or put it back.
 
-To **add or remove apps** later, tap **Choose Apps** in Ice Tray, then **Open Shortcut**. At the top of the Ice Tray
-shortcut, "When [your apps] is Opened", tap **+** to add an app. Tap an app to change or remove it. Keep the shortcut's
-name **Ice Tray**: Ice Tray uses it to find the shortcut.
+Ice Tray teaches you this by doing it. The first time you open it, a few short pages let you try the freeze and then
+show you the steps above, and the last page is your first real freeze, which ends with "You're set up."
+
+To **add apps** later, tap **Choose Apps** in Ice Tray, then **Open Shortcut**. In the shortcut, tap **+** in the "When
+[your apps] is Opened" line. A new app shows up in Ice Tray after you open it once. Keep the shortcut's name **Ice
+Tray**: Ice Tray uses it to find the shortcut.
+
+### Taking an app out
+
+Swipe the app away on Ice Tray's home, or touch and hold it, and tap **Remove**. It leaves Ice Tray's list at once and
+isn't frozen. Then Ice Tray shows how to take it out of the shortcut too: in the shortcut, tap the app in the "When"
+line, then tap **Clear**. Tap **Open Shortcut** in Ice Tray to get there.
 
 ### Set It Up Yourself
 
@@ -30,24 +40,29 @@ step. Here it is in full:
 2. **Text**: add a **Text** action. In it, put the trigger's **App**, type **|** (no spaces), then put the **App**
    again. Tap the first **App** and choose **Name**; tap the second and choose **Bundle Identifier**. It reads
    "App Name|App Bundle Identifier".
-3. **Ice Tray: Unfreeze [Text]**: add Ice Tray's **Unfreeze**. Touch and hold **Which App** and choose the **Text**
-   from step 2 (not the trigger's App).
+3. **Ice Tray: Unfreeze [Text] with Icon [App's Icon]**: add Ice Tray's **Unfreeze**. Touch and hold **Which App**
+   and choose **Text** (the one from step 2, not the trigger's App). Tap **›**, touch and hold **Icon**, choose
+   **App**, then tap that **App** and choose **Icon**.
 4. **If** Ice Tray is **Open** → **Open App** (the trigger's **App**); **Otherwise** → **Go to Home Screen**.
 
 Last, name it **Ice Tray**, and in **ⓘ** → **Privacy** turn on **Allow Running When Locked**, so it runs without asking.
 
 Why the Text step: Shortcuts doesn't hand the trigger's App straight to Ice Tray, but it does hand over text. The Text
-step tells Ice Tray the app's name (what it shows) and its bundle ID (how it knows the app, and how it finds the app's
-icon).
+step tells Ice Tray the app's name (what it shows) and its bundle ID (how it knows the app).
+
+Why the Icon step: it hands Ice Tray the app's own icon, so the ice holds the real icon from its first moment, for
+Apple's own apps too. The picture stays on your iPhone. Without the step Ice Tray still works, but shows a frosted
+tile with the app's first letter until it has fetched an icon from the App Store.
 
 ## How the freeze works
 
-- A frozen app shows as ice holding its icon. Breathe in as the ice rises; breathe out, slowly, and it melts, half with
-  each breath out. 2 slow breaths, about 21 seconds. There's no button to skip it: that's the point. Swiping home
-  leaves, and counts as putting the app back.
+- A frozen app shows as ice holding its icon. "Breathe in, through your nose" as the ice rises; "Breathe out, to melt
+  the ice", slowly, and it melts, half with each breath out. 2 slow breaths, about 21 seconds. There's no button to skip
+  it: that's the point. Swiping home leaves, and counts as putting the app back.
 - When the ice is gone the icon sits in a little puddle, and it's your call. **Put It Back** drops the icon back into
   the ice, leaves the app closed and takes you to your Home Screen. **Open** _the app_ (the line under it) opens it.
-  The first time, iOS may ask whether Ice Tray may open the app: tap **Open**.
+  The first time, iOS may ask whether Ice Tray may open the app: tap **Open**. (The first time you put an app back
+  after set-up, you land on Ice Tray's home instead, so you can see the app in your list.)
 - **Choose within a few seconds of the ice melting.** Shortcuts stops an action after 30 seconds. If you wait longer,
   the shortcut ends quietly, but Ice Tray keeps both buttons on screen: **Open** still opens the app (or tells you it's
   ready), and **Put It Back** goes to Ice Tray's home.
@@ -65,7 +80,7 @@ icon).
 - **Ice Tray breathes but never asks about the app, and shows no app name.** The shortcut isn't handing Ice Tray the
   app. In the Ice Tray shortcut, check there's a **Text** step holding the trigger's App **Name**, **|** and App
   **Bundle Identifier**, and that Ice Tray's **Unfreeze** has the **Text** as its **Which App** (see Set It Up
-  Yourself). Or add Ice Tray's shortcut again from **Choose Apps**: it comes with the Text step.
+  Yourself). Or add Ice Tray's shortcut again from **Choose Apps**: it comes with the Text and Icon steps.
 - **I chose Open and the app didn't open, or Ice Tray says the app "is ready".** Your Ice Tray shortcut has no **If Ice
   Tray is Open → Open App**, or you waited too long to choose (above). Open the app yourself: for 2 minutes after you
   chose Open it opens without a breath. To fix it, add Ice Tray's shortcut again from **Choose Apps**, or follow
@@ -74,12 +89,13 @@ icon).
   more than a few seconds to choose (above). Add it under **Otherwise**, or add the shortcut again.
 - **The app opens with nothing shown.** Either you chose Open for it in the last 2 minutes, or it isn't frozen: without
   Ice Tray Pro only the app with the checkmark on home is frozen; with Ice Tray Pro, check its switch on home is on.
-- **An app shows a letter instead of its icon.** Ice Tray gets icons from Apple's App Store. Some of Apple's own apps
-  aren't there, and with no connection there's nothing to fetch, so Ice Tray shows a frosted tile with the app's first
-  letter. It tries again later.
-- **An app I hid came back.** **Hide** only takes an app off the list on home; the shortcut still covers it, so it comes
-  back the next time it's opened and it stays frozen. To stop freezing it, switch it off on home (Ice Tray Pro) or
-  remove it in the shortcut.
+- **An app shows a letter instead of its icon.** Your shortcut hands Ice Tray each app's icon, so a frosted tile with
+  the app's first letter usually means the shortcut has no **Icon** step (an older or hand-made one). Add it (see Set It
+  Up Yourself, step 3), or add Ice Tray's shortcut again from **Choose Apps**. Ice Tray also asks the App Store for a
+  sharper icon in the background, which it can't do with no connection.
+- **An app I removed came back.** **Remove** takes an app off Ice Tray's home, but if it's still in the shortcut,
+  opening it brings it back to the list, not frozen. To stop that, take it out of the shortcut: tap it in the "When"
+  line, then **Clear**.
 - **No haptics.** Check **Haptics** in Ice Tray's Settings (the gear).
 
 ## Ice Tray Pro
@@ -104,8 +120,9 @@ icon).
 
 ## Privacy
 
-No account, no tracking, no data collected. Ice Tray keeps your apps' names and bundle IDs on your iPhone, and asks
-Apple's App Store for their icons, sending only each app's bundle ID and your region; nothing reaches us. See the
+No account, no tracking, no data collected. Ice Tray keeps your apps' names, bundle IDs and icons on your iPhone. Your
+shortcut hands it each icon, and for apps on the App Store it asks Apple for a sharper one, sending only the app's
+bundle ID and your region; nothing reaches us, and the icon images never leave your iPhone. See the
 [privacy policy]({{ '/privacy/' | relative_url }}).
 
 ## Contact
