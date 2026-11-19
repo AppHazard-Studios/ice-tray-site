@@ -19,7 +19,7 @@ Ice Tray is an iPhone app made by AppHazard Studios ("we"). **Ice Tray doesn't c
 
 Ice Tray keeps these things on your iPhone, in storage only Ice Tray and its Shortcuts action can read:
 
-- your Haptics and Appearance settings,
+- your Haptics setting,
 - whether you've finished onboarding, opened the link to add Ice Tray's shortcut, had your first freeze and seen how
   to add apps,
 - the apps you freeze: for each app your shortcut hands Ice Tray, its name and its bundle ID (the ID every app has,
