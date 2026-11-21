@@ -1,9 +1,9 @@
 # Ice Tray's public pages (privacy, terms, support), built by GitHub Pages with Jekyll.
-# If the repository isn't named "thaw-site", change baseurl to "/<its name>" (PUBLISH.md, step 4).
+# The repository is "ice-tray-site"; if it is renamed, change baseurl to "/<its name>" (PUBLISH.md, step 4).
 title: Ice Tray
 description: Freeze the apps you open without thinking. For iPhone, by AppHazard Studios.
 url: https://apphazard-studios.github.io
-baseurl: /thaw-site
+baseurl: /ice-tray-site
 lang: en
 markdown: kramdown
 kramdown:

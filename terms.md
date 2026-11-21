@@ -56,7 +56,7 @@ uses, with Family Sharing.
 ### Family Sharing, restoring, refunds
 
 - Both plans can be shared with your Family Sharing group.
-- **Restore** (Ice Tray → Settings → Ice Tray Pro → Restore) brings Ice Tray Pro back on a new iPhone or after reinstalling.
+- **Restore** (Ice Tray → Settings → Ice Tray Pro → Restore Purchases) brings Ice Tray Pro back on a new iPhone or after reinstalling.
 - Purchases are handled by Apple, so refunds are too: [reportaproblem.apple.com](https://reportaproblem.apple.com).
 
 ## Your privacy

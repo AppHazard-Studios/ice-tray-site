@@ -5,17 +5,16 @@ Open an app you've chosen and ice holding its icon melts as you breathe out, ove
 open the app, or freeze it. No account, no tracking, no data collected. Free for 1 app; Ice Tray Pro freezes every
 app, with a switch for each. The App Store
 listing will be "Ice Tray: Stop Doomscrolling" ("The screen time app freezer"). The app was called Thaw until 12
-November 2026; the repository, its URLs and the icon file keep the `thaw` spelling until the owner decides otherwise
-(see `PUBLISH.md`).
+November 2026; the icon file keeps the `thaw` spelling.
 
 This repository holds only the pages the App Store and the app link to. The app's code lives elsewhere.
 
 | Page | Source | Published at |
 |---|---|---|
-| Home | [`index.md`](index.md) | https://apphazard-studios.github.io/thaw-site/ |
-| Privacy policy | [`privacy.md`](privacy.md) | https://apphazard-studios.github.io/thaw-site/privacy/ |
-| Terms of use | [`terms.md`](terms.md) | https://apphazard-studios.github.io/thaw-site/terms/ |
-| Support | [`support.md`](support.md) | https://apphazard-studios.github.io/thaw-site/support/ |
+| Home | [`index.md`](index.md) | https://apphazard-studios.github.io/ice-tray-site/ |
+| Privacy policy | [`privacy.md`](privacy.md) | https://apphazard-studios.github.io/ice-tray-site/privacy/ |
+| Terms of use | [`terms.md`](terms.md) | https://apphazard-studios.github.io/ice-tray-site/terms/ |
+| Support | [`support.md`](support.md) | https://apphazard-studios.github.io/ice-tray-site/support/ |
 
 Built by GitHub Pages with Jekyll: `_config.yml`, one layout in `_layouts/default.html` (system fonts, light and
 dark, no scripts, no cookies, no analytics) and the icon in `assets/`. How to publish it: [`PUBLISH.md`](PUBLISH.md).
@@ -24,3 +23,5 @@ Keep `privacy.md` and `support.md` true to the app: when the app's `docs/privacy
 in-app privacy screen (`App/PrivacyView.swift`) change, change these too, and the other way round.
 
 Contact: [apphazardstudios@gmail.com](mailto:apphazardstudios@gmail.com).
+
+© AppHazard Studios. All rights reserved.

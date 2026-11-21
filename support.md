@@ -19,7 +19,7 @@ freezes all your apps. It needs iOS 27.2 or later.
 
 Ice Tray teaches you this by doing it. The first time you open it, short pages let you breathe once, try the real
 choice (open it or freeze it), pick your apps in Shortcuts, and open one. That first real freeze is the last step. Your
-very first freeze ends with "You're set up.", and its **Freeze It** shows your list in Ice Tray.
+very first freeze says "[the app] is in your Ice Tray.", and its **Freeze It** shows your list in Ice Tray.
 
 To **add apps** later, tap **Add Apps** in Ice Tray. The first time it shows how; after that it opens the shortcut. In
 the shortcut, tap **+** in the "When [your apps] is Opened" line and pick an app. A new app shows up in Ice Tray the
@@ -70,8 +70,8 @@ tile with the app's first letter until it has fetched an icon from the App Store
   it: that's the point. Swiping home leaves, and counts as keeping the app frozen.
 - When the ice is gone the icon sits in a little puddle, and it's your call. **Freeze It** drops the icon back into
   the ice, leaves the app closed and takes you to your Home Screen. **Open** _the app_ (the line under it) opens it.
-  The first time, iOS may ask whether Ice Tray may open the app: tap **Open**. (Your very first freeze ever ends with
-  "You're set up.", and its **Freeze It** lands on Ice Tray's home instead, so you can see your app in the list. Every
+  The first time, iOS may ask whether Ice Tray may open the app: tap **Open**. (Your very first freeze ever says
+  "[the app] is in your Ice Tray.", and its **Freeze It** lands on Ice Tray's home instead, so you can see your app in the list. Every
   other **Freeze It** goes to your Home Screen.)
 - **Choose within a few seconds of the ice melting.** Shortcuts stops an action after 30 seconds. If you wait longer,
   the shortcut ends quietly, but Ice Tray keeps both buttons on screen: **Open** still opens the app (or tells you it's
@@ -80,7 +80,7 @@ tile with the app's first letter until it has fetched an icon from the App Store
 - Ice Tray never stops you opening anything. It gives you a moment first.
 - On the end screen, one quiet line says how many times today you've reached for that app ("Third time today.").
 - Home tells you your week in one sentence: how many times you reached for a frozen app, and whether you opened it or
-  kept it frozen. It ends "Cool." only when you kept something frozen. It's kept on your iPhone for 8 weeks and goes
+  kept it frozen. It ends with a word of ice, "Cool." or "Nice.", only when you kept something frozen. It's kept on your iPhone for 8 weeks and goes
   nowhere else.
 - There's no Siri or Spotlight phrase for Ice Tray: a freeze needs an app, so it only happens through the shortcut.
 
@@ -123,7 +123,7 @@ tile with the app's first letter until it has fetched an icon from the App Store
   normally, and on again to freeze it, without touching the shortcut. US$0.99 a month or US$9.99 once, in the same
   digits in most currencies. The price in your currency is shown before you buy. Buy it from Ice Tray's Settings →
   **Ice Tray Pro**, or home's **Ice Tray Pro** row.
-- **Restore:** Ice Tray's Settings → **Ice Tray Pro** → **Restore**, signed in with the Apple Account you bought with.
+- **Restore:** Ice Tray's Settings → **Ice Tray Pro** → **Restore Purchases**, signed in with the Apple Account you bought with.
   Ice Tray also checks with the App Store each time it opens.
 - **Cancel:** Ice Tray's Settings → **Manage Subscription**, or your iPhone's Settings → your name → **Subscriptions** →
   Ice Tray Pro. Cancel at least 24 hours before the current period ends to avoid the next charge; Ice Tray Pro lasts
@@ -131,7 +131,7 @@ tile with the app's first letter until it has fetched an icon from the App Store
   freezes just the 1 app again.
 - **Family Sharing:** both plans can be shared with your Family Sharing group. Family members get Ice Tray Pro on their
   own iPhones (if sharing is turned on for it in your Apple Account's Family Sharing or Subscriptions settings) and
-  can use Restore if it doesn't show up straight away.
+  can use Restore Purchases if it doesn't show up straight away.
 - **Refunds** are handled by Apple: [reportaproblem.apple.com](https://reportaproblem.apple.com).
 
 ## Privacy
