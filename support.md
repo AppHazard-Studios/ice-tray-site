@@ -21,9 +21,9 @@ First, check the app is in the shortcut: tap **Add Apps** in Ice Tray, which ope
 If the shortcut still doesn't work, set it up again:
 
 1. In Shortcuts, touch and hold the **Ice Tray** shortcut, then tap **Delete**.
-2. Delete Ice Tray from your Home Screen, reinstall it from the App Store, and follow the set-up again.
+2. In Ice Tray, tap the gear, then **Set Up Shortcut Again**, and pick your apps.
 
-Keep only one Ice Tray shortcut. With two, every app freezes twice.
+Your apps and settings in Ice Tray stay as they are. Delete the old shortcut first: with two, every app freezes twice.
 
 ## Restore Ice Tray Pro
 
