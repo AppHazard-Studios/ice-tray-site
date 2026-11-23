@@ -41,7 +41,7 @@ concerns about your health, talk to a health professional.
 
 ## 5. Ice Tray Pro
 
-The App is free for 1 app. With Ice Tray Pro, you can freeze as many apps as you want. Ice Tray Pro is sold in the App
+The App is free for 1 app. With Ice Tray Pro, you can freeze unlimited apps. Ice Tray Pro is sold in the App
 through the App Store as:
 
 - **Ice Tray Pro Monthly:** an auto-renewing subscription, US$0.99 a month;

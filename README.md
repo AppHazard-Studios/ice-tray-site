@@ -1,8 +1,8 @@
 # Ice Tray: public pages
 
-The public website for **Ice Tray**, an iPhone app by AppHazard Studios: freeze the apps you want to open less. Open one
-and it's frozen in an ice cube; melt it with 2 slow breaths, then freeze it or open it. No account, no tracking, no data
-collected. Free for 1 app; with Ice Tray Pro, freeze as many as you want. The App Store listing is "Ice Tray: Stop
+The public website for **Ice Tray**, an iPhone app by AppHazard Studios: freeze the apps you doomscroll. Open one
+and it's frozen in an ice cube; melt it with 2 slow breaths, then decide if you really want to open it. No account, no tracking, no data
+collected. Free for 1 app; with Ice Tray Pro, freeze unlimited apps. The App Store listing is "Ice Tray: Stop
 Doomscrolling". The app was called Thaw until 12
 November 2026; the icon file keeps the `thaw` spelling.
 

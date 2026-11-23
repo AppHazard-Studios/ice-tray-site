@@ -1,7 +1,7 @@
 # Ice Tray's public pages (privacy, terms, support), built by GitHub Pages with Jekyll.
 # The repository is "ice-tray-site"; if it is renamed, change baseurl to "/<its name>" (PUBLISH.md, step 4).
 title: Ice Tray
-description: Freeze the apps you want to open less. Ice Tray for iPhone, by AppHazard Studios.
+description: Freeze the apps you doomscroll. Ice Tray for iPhone, by AppHazard Studios.
 # The App Store link for the front page's button. Empty shows "Coming soon to the App Store".
 # Once the app record exists, paste its link here (https://apps.apple.com/app/id<number>), commit and push.
 app_store_url: ""
